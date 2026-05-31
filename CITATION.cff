@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use UMR Writer in your research, please cite it as below."
+title: "UMR Writer"
+abstract: >-
+  UMR Writer is a web-based annotation tool, extending AMR Editor, that allows
+  annotators to create both sentence-level and document-level Uniform Meaning
+  Representation (UMR) annotations across multiple languages.
+type: software
+authors:
+  - family-names: Zhao
+    given-names: Jin
+    affiliation: Brandeis University
+    # orcid: "https://orcid.org/0000-0000-0000-0000"  # add your ORCID if you have one
+  - family-names: Ge
+    given-names: Sijia
+    affiliation: Brandeis University
+repository-code: "https://github.com/jinzhao3611/umr-annotation-tool"
+license: MIT
+keywords:
+  - UMR
+  - Uniform Meaning Representation
+  - semantic annotation
+  - natural language processing
+  - computational linguistics
+date-released: 2020-08-23

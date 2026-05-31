@@ -97,3 +97,27 @@ The application uses the following main tables:
 - `doc_version` - Document versions
 - `annotation` - Sentence and document annotations
 - `lexicon`, `lattice`, `partialgraph` - Project-specific data
+
+## Credits
+
+UMR Writer was created and is primarily developed by **Jin Zhao** (Brandeis
+University), who originated the project in 2020 and authored the large majority
+of its codebase.
+
+Contributors:
+
+- **Jin Zhao** — creator and lead developer
+- **Sijia (Konic) Ge** — contributor
+
+The project is developed under the UMR project at Brandeis University.
+
+## Citation
+
+If you use UMR Writer in your research, please cite it using the metadata in
+[`CITATION.cff`](CITATION.cff) (GitHub renders a "Cite this repository" button
+from this file).
+
+## License
+
+This project is licensed under the MIT License — see the [`LICENSE`](LICENSE)
+file for details. Copyright (c) 2020-2026 Jin Zhao and Brandeis University.
